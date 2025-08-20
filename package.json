@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-aniruddha-joshi",
+  "version": "1.0.0",
+  "description": "Bootstrap portfolio",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": ["portfolio", "bootstrap", "web"],
+  "author": "Aniruddha Joshi",
+  "license": "ISC"
+}
